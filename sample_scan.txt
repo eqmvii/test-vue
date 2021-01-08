@@ -1,0 +1,127 @@
+
+Azure Plagioclase	27,931	9,775 m3	22 km
+Azure Plagioclase	29,530	10,335 m3	19 km
+Azure Plagioclase	36,097	12,633 m3	19 km
+Azure Plagioclase	36,412	12,744 m3	19 km
+Azure Plagioclase	38,695	13,543 m3	18 km
+Azure Plagioclase	39,245	13,735 m3	18 km
+Azure Plagioclase	39,853	13,948 m3	21 km
+Azure Plagioclase	40,002	14,000 m3	18 km
+Azure Plagioclase	40,101	14,035 m3	20 km
+Azure Plagioclase	42,693	14,942 m3	19 km
+Azure Plagioclase	42,747	14,961 m3	22 km
+Azure Plagioclase	43,408	15,192 m3	19 km
+Azure Plagioclase	43,511	15,228 m3	18 km
+Azure Plagioclase	43,621	15,267 m3	24 km
+Azure Plagioclase	44,352	15,523 m3	23 km
+Azure Plagioclase	45,969	16,089 m3	21 km
+Azure Plagioclase	46,227	16,179 m3	20 km
+Azure Plagioclase	46,277	16,196 m3	18 km
+Azure Plagioclase	47,528	16,634 m3	20 km
+Azure Plagioclase	48,279	16,897 m3	20 km
+Azure Plagioclase	49,917	17,470 m3	19 km
+Azure Plagioclase	52,094	18,232 m3	20 km
+Azure Plagioclase	63,834	22,341 m3	20 km
+Concentrated Veldspar	100,757	10,075 m3	27 km
+Concentrated Veldspar	101,298	10,129 m3	17 km
+Concentrated Veldspar	102,244	10,224 m3	14 km
+Concentrated Veldspar	103,048	10,304 m3	22 km
+Concentrated Veldspar	105,448	10,544 m3	25 km
+Concentrated Veldspar	107,376	10,737 m3	26 km
+Concentrated Veldspar	107,689	10,768 m3	22 km
+Concentrated Veldspar	108,508	10,850 m3	26 km
+Concentrated Veldspar	108,784	10,878 m3	28 km
+Concentrated Veldspar	108,811	10,881 m3	26 km
+Concentrated Veldspar	109,522	10,952 m3	24 km
+Concentrated Veldspar	111,861	11,186 m3	29 km
+Concentrated Veldspar	115,245	11,524 m3	35 km
+Concentrated Veldspar	123,757	12,375 m3	35 km
+Concentrated Veldspar	67,891	6,789 m3	21 km
+Concentrated Veldspar	69,798	6,979 m3	16 km
+Concentrated Veldspar	72,565	7,256 m3	17 km
+Concentrated Veldspar	75,439	7,543 m3	17 km
+Concentrated Veldspar	80,544	8,054 m3	14 km
+Concentrated Veldspar	81,041	8,104 m3	21 km
+Concentrated Veldspar	83,265	8,326 m3	17 km
+Concentrated Veldspar	83,860	8,386 m3	17 km
+Concentrated Veldspar	86,380	8,638 m3	16 km
+Concentrated Veldspar	86,753	8,675 m3	14 km
+Concentrated Veldspar	87,134	8,713 m3	23 km
+Concentrated Veldspar	89,886	8,988 m3	20 km
+Concentrated Veldspar	90,024	9,002 m3	19 km
+Concentrated Veldspar	90,476	9,047 m3	18 km
+Concentrated Veldspar	92,580	9,258 m3	14 km
+Concentrated Veldspar	95,320	9,532 m3	22 km
+Concentrated Veldspar	99,669	9,966 m3	27 km
+Condensed Scordite	26,455	3,968 m3	18 km
+Condensed Scordite	30,176	4,526 m3	19 km
+Condensed Scordite	35,392	5,308 m3	18 km
+Condensed Scordite	35,474	5,321 m3	19 km
+Condensed Scordite	36,766	5,514 m3	20 km
+Condensed Scordite	38,309	5,746 m3	21 km
+Condensed Scordite	38,596	5,789 m3	21 km
+Condensed Scordite	40,487	6,073 m3	19 km
+Condensed Scordite	41,445	6,216 m3	22 km
+Condensed Scordite	42,485	6,372 m3	19 km
+Condensed Scordite	44,369	6,655 m3	20 km
+Condensed Scordite	44,910	6,736 m3	23 km
+Condensed Scordite	46,987	7,048 m3	19 km
+Condensed Scordite	48,742	7,311 m3	18 km
+Condensed Scordite	49,822	7,473 m3	22 km
+Dense Veldspar	105,597	10,559 m3	22 km
+Dense Veldspar	113,597	11,359 m3	34 km
+Dense Veldspar	73,453	7,345 m3	13 km
+Dense Veldspar	89,296	8,929 m3	14 km
+Dense Veldspar	97,715	9,771 m3	20 km
+Massive Scordite	28,578	4,286 m3	19 km
+Massive Scordite	29,206	4,380 m3	22 km
+Massive Scordite	35,435	5,315 m3	22 km
+Massive Scordite	41,074	6,161 m3	21 km
+Massive Scordite	51,412	7,711 m3	19 km
+Plagioclase	45,807	16,032 m3	19 km
+Plagioclase	45,867	16,053 m3	20 km
+Plagioclase	48,410	16,943 m3	17 km
+Pyroxeres	10,681	3,204 m3	19 km
+Pyroxeres	12,003	3,600 m3	19 km
+Pyroxeres	12,419	3,725 m3	19 km
+Pyroxeres	12,582	3,774 m3	23 km
+Pyroxeres	12,638	3,791 m3	23 km
+Pyroxeres	14,228	4,268 m3	22 km
+Pyroxeres	14,312	4,293 m3	19 km
+Rich Plagioclase	35,795	12,528 m3	19 km
+Rich Plagioclase	43,768	15,318 m3	21 km
+Rich Plagioclase	47,478	16,617 m3	18 km
+Scordite	28,028	4,204 m3	18 km
+Scordite	33,068	4,960 m3	17 km
+Scordite	34,181	5,127 m3	21 km
+Scordite	36,781	5,517 m3	18 km
+Scordite	37,232	5,584 m3	17 km
+Scordite	37,502	5,625 m3	19 km
+Scordite	40,887	6,133 m3	18 km
+Scordite	41,508	6,226 m3	19 km
+Scordite	49,672	7,450 m3	17 km
+Scordite	51,089	7,663 m3	19 km
+Scordite	55,361	8,304 m3	17 km
+Scordite	58,774	8,816 m3	19 km
+Solid Pyroxeres	10,137	3,041 m3	21 km
+Solid Pyroxeres	10,452	3,135 m3	18 km
+Solid Pyroxeres	11,486	3,445 m3	19 km
+Solid Pyroxeres	12,373	3,711 m3	18 km
+Solid Pyroxeres	14,254	4,276 m3	19 km
+Solid Pyroxeres	14,483	4,344 m3	21 km
+Solid Pyroxeres	17,043	5,112 m3	20 km
+Solid Pyroxeres	18,088	5,426 m3	23 km
+Solid Pyroxeres	7,974	2,392 m3	18 km
+Veldspar	101,063	10,106 m3	19 km
+Veldspar	106,866	10,686 m3	28 km
+Veldspar	113,018	11,301 m3	34 km
+Veldspar	57,692	5,769 m3	21 km
+Veldspar	80,827	8,082 m3	13 km
+Veldspar	96,515	9,651 m3	22 km
+Veldspar	98,769	9,876 m3	16 km
+Viscous Pyroxeres	10,283	3,084 m3	19 km
+Viscous Pyroxeres	15,820	4,746 m3	18 km
+Viscous Pyroxeres	15,920	4,776 m3	21 km
+Viscous Pyroxeres	15,923	4,776 m3	19 km
+Viscous Pyroxeres	7,757	2,327 m3	24 km
+Viscous Pyroxeres	9,211	2,763 m3	21 km
