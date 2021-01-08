@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Hello World</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+  </head>
+  <body>
+    <div id="app">
+      <p>{{ message }}</p>
+      <p><input v-model="message" /></p>
+      <p>
+        <button v-on:click="reverseMessage">Reverse Message</button>
+      </p>
+      <p>You have clicked {{ clicks }} times.</p>
+      <p>
+        <span v-bind:title="hovermessage">
+          Hover your mouse over me for a few seconds to see my dynamically bound
+          title!
+        </span>
+      </p>
+      <p>
+        <span v-if="seen">Now you see me</span>
+      </p>
+      <ul>
+        <li v-for="todo in todos">{{ todo.text }}</li>
+      </ul>
+    </div>
+</html>
+
+<script>
+  var app = new Vue({
+    el: "#app",
+    data: {
+      message: "Hello Vue World!",
+      clicks: 0,
+      hovermessage:
+        "You loaded this page on " + new Date().toLocaleString(),
+      seen: true,
+      todos: [
+        { text: "hmm", id: 1 },
+        { text: "walrus", id: 2 }
+      ]
+    },
+    methods: {
+      reverseMessage: function () {
+        this.message = this.message.split("").reverse().join("");
+      }
+    }
+  });
+</script>
+
