@@ -23,6 +23,18 @@
       <ul>
         <li v-for="todo in todos">{{ todo.text }}</li>
       </ul>
+      <textarea v-model="textareadata"></textarea>
+      <br />
+      <h1>Total: {{ total }} </h1>
+      <ul>
+        <!-- TODO ERIC: loop through this? -->
+        <li>Veldspar: {{ ore_rows("Veldspar").toLocaleString() }}</li>
+        <li>Plagioclase: {{ ore_rows("Plagioclase").toLocaleString() }} </li>
+        <li>Scordite: {{ ore_rows("Scordite").toLocaleString() }} </li>
+        <li>Pyroxeres: {{ ore_rows("Pyroxeres").toLocaleString() }} </li>
+      </ul>
+      <hr />
+      <p> {{ textareadata }} </p>
     </div>
 </html>
 
@@ -38,13 +50,51 @@
       todos: [
         { text: "hmm", id: 1 },
         { text: "walrus", id: 2 }
-      ]
+      ],
+      textareadata: "alalalala"
+    },
+    computed: {
+      // OLD, just for playing / testing
+      plagioclase_rows: function(ore_type) {
+        // Example Row:
+        // Azure Plagioclase	27,931	9,775 m3	22 km
+        return rows_array =
+          this.textareadata
+            .split("\n")
+            .filter(row => row.includes("Plagioclase"))
+            .map(row => row.split("\t"))
+            // ignore any row that is just the name of the orw
+            .filter(row_array => row_array.length > 1);
+      },
+      total: function () {
+        let total = this.ore_rows("Veldspar") + this.ore_rows("Plagioclase") + this.ore_rows("Scordite") + this.ore_rows("Pyroxeres");
+        return total.toLocaleString();
+      }
     },
     methods: {
       reverseMessage: function () {
         this.message = this.message.split("").reverse().join("");
+      },
+      ore_rows: function(ore_type) {
+        // Example Row:
+        // Azure Plagioclase	27,931	9,775 m3	22 km
+        return rows_array =
+          this.textareadata
+            .split("\n")
+            .filter(row => row.includes(ore_type))
+            .map(row => row.split("\t"))
+            // ignore any row that is just the name of the orw
+            .filter(row_array => row_array.length > 1)
+            // 9,775 m3
+            .map(row_array => parseInt(
+              row_array[2]
+                .slice(0, -3)
+                .replace(",", ""), 10
+              ))
+            // Add it up
+            .reduce((total, num) => { return total + num }, 0);
+      },
       }
-    }
   });
 </script>
 
